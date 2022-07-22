@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/787.dd538ae6.chunk.css","mappings":"AAAA,YAGI,aAAc,CADd,cAAe,CAEf,eAAgB,CAChB,aAAgB,CAJhB,iBAKJ","sources":["pages/Home/style.css"],"sourcesContent":[".title-card{\r\n    padding-left: 13px;\r\n    font-size: 15px;\r\n    color: #41ad99;\r\n    font-weight: 550;\r\n    margin: auto 0px;\r\n}"],"names":[],"sourceRoot":""}
